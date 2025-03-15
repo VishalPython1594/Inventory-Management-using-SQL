@@ -26,3 +26,18 @@ This system consists of the following key tables:
 ### **7️⃣ Purchase Table**
 
 ![image](https://github.com/user-attachments/assets/c8536175-c585-4a46-91df-18876068d6b5)
+
+## 🖥️ Usage:
+1. This can be very useful for businesses maintaining inventory.
+2. Tasks like invoice generation and order placement to the seller are automated.
+3. This saves time and increases the efficiency of the business, resulting in growth, as customers are taken care of in a better way.
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request if you have improvements or new features.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 📩 Contact & Support
+📧 Email: vishal1594@outlook.com
+🔗 LinkedIn: https://www.linkedin.com/in/vishal-shivnani-87487110a/
